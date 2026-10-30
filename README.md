@@ -1,51 +1,51 @@
 # Hola, soy Maru 👋
 
-Soy desarrolladora frontend con formación en diseño gráfico y experiencia construyendo productos web desde 2020.
+Soy Software Engineer con foco en frontend, producto y arquitectura de interfaces. Trabajo construyendo productos web desde 2020 y llegué al desarrollo después de formarme y trabajar en diseño gráfico.
 
-Mi camino hacia el desarrollo empezó buscando ampliar mis herramientas como diseñadora y terminó convirtiéndose en algo que me apasionó: **entender cómo funcionan las cosas, construirlas y resolver problemas con código**.
+Esa combinación sigue siendo una parte importante de cómo trabajo: me interesa entender el problema, modelar una solución clara y llevarla a una implementación que pueda evolucionar.
 
-Aprendí gran parte de lo que sé trabajando. Cada sprint fue una oportunidad para incorporar algo nuevo: desde mis primeras tareas reemplazando elementos nativos por componentes reutilizables, hasta trabajar con formularios dinámicos, manejo de estado, persistencia, integraciones, componentes complejos, librerías internas y arquitecturas frontend cada vez más desacopladas.
+En los últimos años trabajé con React, Next.js y TypeScript en productos reales, librerías de componentes, flujos dinámicos, integraciones, state management y arquitectura frontend. También participé en iniciativas que me llevaron cada vez más hacia decisiones de sistema: contratos, modularidad, datos, comunicación entre capas y evolución técnica de productos.
 
-Con el tiempo entendí que lo que más disfruto no es solamente implementar una interfaz, sino **tomar un problema, entender sus restricciones y encontrar una solución que pueda evolucionar**.
+## En qué me interesa trabajar
 
-## En qué estoy trabajando ahora
+Me atraen especialmente los problemas donde frontend, arquitectura y producto se cruzan:
 
-Estoy ampliando deliberadamente mi perfil hacia **Software Engineering / Full Stack Product Engineering**.
+- aplicaciones React / Next.js complejas;
+- design systems y componentes reutilizables;
+- arquitecturas frontend modulares;
+- modelado de flujos y estados;
+- APIs y productos full stack;
+- performance y observabilidad;
+- developer experience;
+- AI aplicada como parte de productos y workflows de ingeniería.
 
-Quiero mantener la profundidad que construí en frontend y UX, pero sumar autonomía para pensar una solución completa:
+Mi foco sigue estando en construir buenas interfaces, pero con una mirada cada vez más amplia sobre el sistema que las sostiene.
 
-- arquitectura y system design;
-- APIs, backend y modelado de datos;
-- eventos y procesamiento asíncrono;
-- infraestructura, despliegue y observabilidad;
-- performance web;
-- UX/UI y diseño de producto;
-- AI engineering: RAG, tools, agentes y evaluación, entendiendo cuándo usarlos y cuándo no.
+## Actualmente construyendo · Puente
 
-No busco acumular tecnologías. Busco desarrollar **criterio de ingeniería** y capacidad de delivery de punta a punta.
+Estoy desarrollando **Puente**, una plataforma para coordinar casos activos de rescate animal.
+
+La idea es centralizar en un mismo flujo la coordinación entre rescatistas, hogares de tránsito, veterinarias y personas que colaboran con las necesidades de cada caso.
+
+El proyecto está pensado mobile-first y parte de un dominio real: ownership de casos, disponibilidad de hogares de tránsito, atención veterinaria, necesidades económicas, historial y seguimiento.
+
+Lo estoy construyendo de punta a punta con React / Next.js, Java / Spring Boot y PostgreSQL, dejando que la arquitectura evolucione a medida que aparecen problemas reales de producto.
 
 ## Cómo me gusta trabajar
 
-Me interesa especialmente construir sistemas donde haya que pensar más allá de una pantalla: componentes reutilizables, flujos dinámicos, arquitectura, estados complejos, performance y experiencias que tengan sentido para quien las usa.
+Me interesa especialmente:
 
-Vengo del diseño, así que sigo prestándole mucha atención al detalle y a la experiencia. Vengo del frontend, así que me importa cómo se comporta realmente una interfaz. Y cada vez me interesa más entender todo lo que sucede alrededor de ella.
+- transformar problemas ambiguos en modelos claros;
+- visualizar flujos y arquitectura antes de abstraer;
+- mantener contratos y responsabilidades explícitas;
+- construir soluciones simples antes de distribuir complejidad;
+- medir antes de optimizar;
+- usar IA donde agregue criterio o velocidad, no para reemplazar comprensión.
 
-## Construyendo en público
-
-Estoy usando GitHub como registro de esta nueva etapa.
-
-Mi proyecto principal de formación es:
-
-### → Software Engineering Bootcamp
-
-Un recorrido práctico y progresivo para profundizar en ingeniería de software construyendo proyectos reales, documentando decisiones y llevando cada concepto a una implementación concreta.
-
-[Ver el bootcamp](https://github.com/MaruGargiulo/software-engineering-bootcamp)
-
-La idea es que este sea el primero de varios proyectos que funcionen a la vez como **laboratorio de aprendizaje y evidencia de capacidad de delivery**.
+Mi background en diseño hace que tienda a pensar sistemas de forma visual y a prestar mucha atención tanto a la experiencia de uso como a la claridad de la implementación.
 
 ---
 
 📍 Argentina  
-💼 Frontend / Full Stack Product Engineering  
+💼 Software Engineer · Frontend / Full Stack Product Engineering  
 🔗 [LinkedIn](https://www.linkedin.com/in/maru-gargiulo/)
