@@ -23,7 +23,7 @@ Mi foco sigue estando en construir buenas interfaces, pero con una mirada cada v
 
 ## Actualmente construyendo · Puente
 
-Estoy desarrollando **Puente**, una plataforma para coordinar casos activos de rescate animal.
+Estoy desarrollando **[Puente](https://github.com/MaruGargiulo/puente-rescate)**, una plataforma para coordinar casos activos de rescate animal.
 
 La idea es centralizar en un mismo flujo la coordinación entre rescatistas, hogares de tránsito, veterinarias y personas que colaboran con las necesidades de cada caso.
 
